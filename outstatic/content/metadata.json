@@ -1,6 +1,6 @@
 {
-  "commit": "f1d49d79a01c1d85981f368c71944529e6583183",
-  "generated": "2025-09-09T15:05:56.468Z",
+  "commit": "9e26fac258fd5a264a01f14c11c77c879419ba39",
+  "generated": "2025-09-09T18:35:50.175Z",
   "metadata": [
     {
       "__outstatic": {
@@ -152,6 +152,24 @@
       "slug": "this-is-a-test-new-new-post",
       "status": "published",
       "title": "This is a test new new post"
+    },
+    {
+      "__outstatic": {
+        "commit": "9e26fac258fd5a264a01f14c11c77c879419ba39",
+        "hash": "4154097613",
+        "path": "outstatic/content/posts/test-3pm-post.mdx"
+      },
+      "author": {
+        "name": "Kevin Little",
+        "picture": "https://avatars.githubusercontent.com/u/18652138?v=4"
+      },
+      "collection": "posts",
+      "publishedAt": "2025-09-09T19:00:00.000Z",
+      "slug": "test-3pm-post",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Test 3pm post"
     }
   ]
 }
