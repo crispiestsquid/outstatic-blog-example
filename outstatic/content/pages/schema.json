@@ -1,0 +1,12 @@
+{
+  "title": "pages",
+  "type": "object",
+  "properties": {
+    "headline": {
+      "description": "The headline of a page.",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Headline"
+    }
+  }
+}
